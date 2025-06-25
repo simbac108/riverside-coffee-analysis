@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Large data files and generated files
+/data/riverside_coffee_shops_comprehensive.csv
+/final_processed_data.geojson
+/ml_ready_data.npz
+
+# API Keys (if you ever put them in a separate file)
+*.env
+keys.py
+
+# OS-specific files
+.DS_Store
