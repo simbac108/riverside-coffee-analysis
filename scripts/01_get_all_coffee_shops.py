@@ -6,7 +6,7 @@ import numpy as np
 
 # --- CONFIGURATION ---
 # IMPORTANT: Replace with your actual Google Places API Key
-API_KEY = 'REMOVED_FOR_SECURITY'
+API_KEY = ''
 # The type of place to search for
 TYPE = 'cafe'
 # The radius for each individual search in our grid (in meters).
